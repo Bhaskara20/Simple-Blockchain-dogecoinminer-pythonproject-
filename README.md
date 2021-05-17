@@ -1,0 +1,1 @@
+Simple-Blockchain-dogecoinminer(pythonproject)
